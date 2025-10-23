@@ -70,11 +70,11 @@ Cleaned ~95% of the data. Around 400 rows (5%) remained dirty but were preserved
     * 👉 **Suggestion:** Create combo offers pairing top-selling items with lower-performing ones to boost overall sales.
 * **Heatmap Analysis:** Revealed higher customer traffic and revenue on hotter days, while colder days showed significantly lower activity.
 
-![Dashboard Preview](images/Cafe and bar 0.2.JPG)
+![Dashboard Preview](images/cafe and bar 0.2.JPG)
 
-![Row data](images/Cafe and bar 0.3.JPG)
-![Cleaned Data](images/Cafe and bar 0.4.JPG)
-![Dashboard Preview](images/Cafe and bar sales.JPG)
+![Row data](images/cafe and bar 0.3.JPG)
+![Cleaned Data](images/cafe and bar 0.4.JPG)
+![Dashboard Preview](images/cafe and bar sales.JPG)
 
 [**View the Interactive Dashboard Live Here**](https://app.powerbi.com/view?r=eyJrIjoiMzYwMWU2ZGYtOTFmNy00NTEwLTk0MWEtYzY0OGM2NWM1OTU0IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
